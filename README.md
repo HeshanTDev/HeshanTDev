@@ -84,3 +84,9 @@
 <p>
   <a href="https://buymeacoffee.com/HeshanTDev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HeshanTDev" /></a>
 </p>
+
+
+<br><br><br>
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
