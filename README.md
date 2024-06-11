@@ -1,92 +1,45 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HeshanTDev&label=Profile%20views&color=0e75b6&style=flat" alt="HeshanTDev"/> </p>
+## Hi there 👋 It's me Baasil Sabry
 
-<h1 align="left">Hi there, I'm Heshan Tharusha </h1>
+Software Engineering Student @ Java Institute of Advanced Technology
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-<table align="center">
-<tr border="none">
-<td width="80%" align="left">
-  
-- 🌱 I’m currently learning **Web development**
+- 🔭 Here's my [portfolio] (currently under maintenance)                                       
+- 🌱 I’m currently learning **Java**
+- 👯 I’m looking to collaborate on **web development**
+- 🤔 I’m a first-year student seeking guidance for future placements in top tech companies
+- 💬 Ask me about **web development and hosting**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I know Sinhala and Tamil**
 
-- 🧑‍🎓 I’m an Undergraduate at **JIAT**
-
-- 💬 Ask me about **Web development**
-
-- 📫 How to reach me **heshant447@gmail.com**
-
-- ⚡ Fun fact **Call me T**
-
-</td>
-
-<td width="40%" align="center">
-  <img align="right" alt="coding" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" width="400">
-</td>
-  
-</tr>
-
-</table>
-
----
-
-<h2 align="left"> My Statistics
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> :
-</h2>
-
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HeshanTDev&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="HeshanTDev streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HeshanTDev&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HeshanTDev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
----
-
-<h2 align="left">Connect with me 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> :
-</h2>
-<p align="center">
-<a href="https://twitter.com/HeshanTDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@HeshanTDev" height="30" width="40" /></a>
-<a href="https://facebook.com/HeshanTDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="HeshanTDev" height="30" width="40" /></a>
-<a href="https://instagram.com/HeshanTDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="HeshanTDev" height="30" width="40" /></a>
-</p>
-
----
-
-<h2>Languages and Tools 
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" /> :
-</h2>
-
-<img align="right" alt="Support" width="150" src="res/sup.gif"/>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,mysql,java,arduino,vscode,github&perline=14" width="500px" />
-  </a>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200">
-</p>
-
----
-
-<h3 align="left">Support me 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> :
-</h3>
-
+### Languages I Code In
 <p>
-  <a href="https://buymeacoffee.com/HeshanTDev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HeshanTDev" /></a>
+  <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img height="50" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"/>
 </p>
 
+### Frameworks and Libraries & IDEs
+<p>
+  <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img height="50" src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js"/>
+</p>
 
-<br><br><br>
+### Design Tools
+<p>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
+  <img height="50" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" />
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/CapCut_Logo.png" alt="Capcut" />
+</p>
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+### 💻 Workspace Spec
+<p>
+  <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> 
+  <img height="30" src="https://img.shields.io/badge/Intel-Core_i7-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+</p>
+
+---
+
+📫 **How to reach me: [HeshanTDev](https://github.com/HeshanTDev)**
