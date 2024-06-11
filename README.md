@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Heshan Tharusha
 
 Software Engineering Student @ Java Institute of Advanced Technology
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif">
 
 - 🔭 Here's my [portfolio] (currently under maintenance)                                       
 - 🌱 I’m currently learning **Java**
