@@ -20,7 +20,7 @@ Software Engineering Student @ Java Institute of Advanced Technology
   <img height="50" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"/>
 </p>
 
-### Frameworks and Libraries & IDEs
+### Frameworks and Libraries
 <p>
   <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
@@ -29,9 +29,9 @@ Software Engineering Student @ Java Institute of Advanced Technology
 
 ### Design Tools
 <p>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
-  <img height="50" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" />
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/CapCut_Logo.png" alt="Capcut" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" /> 
+  <img height="50" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" /> 
+  <img height="50" src="https://th.bing.com/th/id/OIP.cXSB00UqSIoq8eEGOQ3TiQAAAA?rs=1&pid=ImgDetMain" />
 </p>
 
 ### 💻 Workspace Spec
