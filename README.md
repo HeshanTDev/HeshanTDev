@@ -9,7 +9,7 @@ Software Engineering Student @ Java Institute of Advanced Technology
 - 🤔 I’m a first-year student seeking guidance for future placements in top tech companies
 - 💬 Ask me about **web development and hosting**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I know Sinhala and Tamil**
+- ⚡ Fun fact: **I know Sinhala**
 
 ### Languages I Code In
 <p>
