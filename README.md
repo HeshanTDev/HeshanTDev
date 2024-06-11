@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamathkadp&label=Profile%20views&color=0e75b6&style=flat" alt="chamathkadp"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HeshanTDev&label=Profile%20views&color=0e75b6&style=flat" alt="HeshanTDev"/> </p>
 
 <h1 align="left">Hi there, I'm Heshan Tharusha </h1>
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **heshant447@gmail.com**
 
--  ⚡ Fun fact **Call me as T**
+- ⚡ Fun fact **Call me T**
 
 </td>
 
@@ -37,13 +37,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chamathkadp&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HeshanTDev&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chamathkadp&theme=dark&hide_border=false" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="HeshanTDev streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HeshanTDev&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chamathkadp&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HeshanTDev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -55,22 +55,22 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> :
 </h2>
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chamathka_dp" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamathka.perera." height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamathka_d_perera" height="30" width="40" /></a>
+<a href="https://twitter.com/HeshanTDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@HeshanTDev" height="30" width="40" /></a>
+<a href="https://facebook.com/HeshanTDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="HeshanTDev" height="30" width="40" /></a>
+<a href="https://instagram.com/HeshanTDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="HeshanTDev" height="30" width="40" /></a>
 </p>
 
 ---
 
 <h2>Languages and Tools 
-  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> :
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" /> :
 </h2>
 
 <img align="right" alt="Support" width="150" src="res/sup.gif"/>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,mysql,java,arduino,vscode,github,&perline=14" width = 500px />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,mysql,java,arduino,vscode,github&perline=14" width="500px" />
   </a>
   <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200">
 </p>
@@ -82,5 +82,5 @@
 </h3>
 
 <p>
-  <a href=""> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chamathka_dp" /></a>
+  <a href="https://buymeacoffee.com/HeshanTDev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HeshanTDev" /></a>
 </p>
