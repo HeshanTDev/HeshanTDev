@@ -19,7 +19,7 @@
 </td>
 
 <td width="40%" align="center">
-  <img align="right" alt="coding" src="https://www.bing.com/images/search?view=detailV2&ccid=kIacWWXj&id=622B341A136622C1D90562B0D7B03D39D013EC3F&thid=OIP.kIacWWXjfYBFXqIXhIuCXQHaFj&mediaurl=https%3a%2f%2fapexx77.github.io%2fwebsite%2fimages%2fpro.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.90869c5965e37d80455ea217848b825d%3frik%3dP%252bwT0Dk9sNewYg%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=cartoon+like+programmer+gif&simid=608043043511223473&FORM=IRPRST&ck=D83E13D79A03231C1CCA15F66B389A50&selectedIndex=4&itb=0" width="400">
+  <img align="right" alt="coding" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" width="400">
 </td>
   
 </tr>
