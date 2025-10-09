@@ -24,10 +24,20 @@ Software Engineering Student @ Java Institute for Advanced Technology
 
 ### Frameworks, Libraries & Design Tools
 <p>
-  <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" /> 
+  <!-- Existing Tools -->
+  <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/> 
+
+  <!-- New Tools -->
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" alt="Hibernate"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven"/>
+  <img height="50" src="https://img.icons8.com/ultraviolet/48/react--v1.png" alt="React Native"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL"/>
 </p>
+
 
 ### 💻 Workspace Spec
 <p>
