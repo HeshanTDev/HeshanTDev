@@ -1,13 +1,13 @@
 ## Hi there 👋 It's me Heshan Tharusha
 
-Software Engineering Student @ Java Institute of Advanced Technology
+Software Engineering Student @ Java Institute for Advanced Technology
 <img align="right" width="370" height="290" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif">
 
 - 🔭 Here's my [portfolio] (currently under maintenance)                                       
 - 🌱 I’m currently learning **Java**
 - 👯 I’m looking to collaborate on **web development**
-- 🤔 I’m a first-year student seeking guidance for future placements in top tech companies
-- 💬 Ask me about **web development and hosting**
+- 🤔 I’m a 3rd-year student seeking guidance for future placements in top tech companies
+- 💬 Ask me about **Java EE and OOP**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I know Sinhala**
 
@@ -26,11 +26,7 @@ Software Engineering Student @ Java Institute of Advanced Technology
 <p>
   <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img height="50" src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js"/>
-    <img height="50" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" /> 
-  <img height="50" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" /> 
-  <img height="50" src="https://th.bing.com/th/id/OIP.cXSB00UqSIoq8eEGOQ3TiQAAAA?rs=1&pid=ImgDetMain" alt="Capcut"/>
 </p>
 
 ### 💻 Workspace Spec
