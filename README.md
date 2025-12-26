@@ -17,7 +17,6 @@ Software Engineering Student @ Java Institute for Advanced Technology
   <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-  <img height="50" src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/>
 
 
