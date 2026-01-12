@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Heshan Tharusha
 
-Software Engineering Student @ Java Institute for Advanced Technology
+Software Engineering student at Java Institute for Advanced Technology, passionate about Java and building real-world applications.
 <img align="right" width="370" height="290" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif">
 
 ### 💻 Skills & Tools
