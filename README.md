@@ -18,3 +18,8 @@ Software Engineering student at Java Institute for Advanced Technology, passiona
 ---
 
 📫 **How to reach me: [HeshanTDev](https://github.com/HeshanTDev)**
+
+[![Website](https://img.shields.io/badge/Website-ff7f50?style=for-the-badge&logo=ko-fi&logoColor=white)](https://heshan-t.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-d44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heshant447@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0719826938)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/heshan-tharusha-877303308)
