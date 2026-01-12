@@ -13,7 +13,7 @@ Software Engineering Student @ Java Institute for Advanced Technology
 
 ### 💻 Skills & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,php,angular,bootstrap,react,spring,hibernate,maven,mysql,postgres,docker,vscode,idea,figma&perline=9" alt="Skills & Tools"/>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,php,angular,bootstrap,react,spring,hibernate,maven,mysql,postgres,docker,vscode,idea,figma" alt="Skills & Tools"/>
 </p>
 
 
